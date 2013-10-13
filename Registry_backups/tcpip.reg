@@ -1,0 +1,454 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters]
+"ICSDomain"="mshome.net"
+"SyncDomainWithMembership"=dword:00000000
+"NV Hostname"="PCJuarez"
+"DataBasePath"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,6d,\
+  33,32,5c,64,72,69,76,65,72,73,5c,65,74,63,00
+"ForwardBroadcasts"=dword:00000000
+"IPEnableRouter"=dword:00000000
+"Domain"=""
+"Hostname"="PCJuarez"
+"SearchList"=""
+"UseDomainNameDevolution"=dword:00000001
+"DeadGWDetectDefault"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"EnableWsd"=dword:00000001
+"QualifyingDestinationThreshold"=dword:00000003
+"OverrideDefaultAddressSelection"=dword:00000001
+"NV Domain"=""
+"DhcpNameServer"="192.168.1.1"
+"DhcpDomain"="lan"
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Adapters]
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Adapters\{426D541B-9D46-4CF2-A588-4C8F4D3CE7E7}]
+"LLInterface"=""
+"IpConfig"=hex(7):54,63,70,69,70,5c,50,61,72,61,6d,65,74,65,72,73,5c,49,6e,74,\
+  65,72,66,61,63,65,73,5c,7b,34,32,36,44,35,34,31,42,2d,39,44,34,36,2d,34,43,\
+  46,32,2d,41,35,38,38,2d,34,43,38,46,34,44,33,43,45,37,45,37,7d,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Adapters\{7CE163D5-A33A-4B88-933D-4B99C28D2226}]
+"LLInterface"=""
+"IpConfig"=hex(7):54,63,70,69,70,5c,50,61,72,61,6d,65,74,65,72,73,5c,49,6e,74,\
+  65,72,66,61,63,65,73,5c,7b,37,43,45,31,36,33,44,35,2d,41,33,33,41,2d,34,42,\
+  38,38,2d,39,33,33,44,2d,34,42,39,39,43,32,38,44,32,32,32,36,7d,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Adapters\{8CB5BD11-8F2C-4456-A001-002F30A06014}]
+"LLInterface"=""
+"IpConfig"=hex(7):54,63,70,69,70,5c,50,61,72,61,6d,65,74,65,72,73,5c,49,6e,74,\
+  65,72,66,61,63,65,73,5c,7b,38,43,42,35,42,44,31,31,2d,38,46,32,43,2d,34,34,\
+  35,36,2d,41,30,30,31,2d,30,30,32,46,33,30,41,30,36,30,31,34,7d,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Adapters\{AC228075-440E-4A1C-9178-4324DBBB7558}]
+"LLInterface"=""
+"IpConfig"=hex(7):54,63,70,69,70,5c,50,61,72,61,6d,65,74,65,72,73,5c,49,6e,74,\
+  65,72,66,61,63,65,73,5c,7b,41,43,32,32,38,30,37,35,2d,34,34,30,45,2d,34,41,\
+  31,43,2d,39,31,37,38,2d,34,33,32,34,44,42,42,42,37,35,35,38,7d,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Adapters\{D9BD93CD-31A7-4B26-986F-F82BAB88E082}]
+"LLInterface"=""
+"IpConfig"=hex(7):54,63,70,69,70,5c,50,61,72,61,6d,65,74,65,72,73,5c,49,6e,74,\
+  65,72,66,61,63,65,73,5c,7b,44,39,42,44,39,33,43,44,2d,33,31,41,37,2d,34,42,\
+  32,36,2d,39,38,36,46,2d,46,38,32,42,41,42,38,38,45,30,38,32,7d,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\DNSRegisteredAdapters]
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\DNSRegisteredAdapters\{2C5C4559-4BB7-431F-8452-228F87C12F85}]
+"Hostname"="PC-Weslley"
+"AdapterDomainName"=""
+"PrimaryDomainName"="alterna.net"
+"HostAddrs"=hex:01,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,17,00,00,00,00,00,00,00,20,02,c0,a9,01,05,\
+  00,00,00,00,00,00,c0,a9,01,05,00,00,00,00,00,00,00,00,1c,00,00,00,80,00,00,\
+  00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"DnsServers"=hex:01,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00,c0,a9,01,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,10,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00
+"SentUpdateToIp"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SentPriUpdateToIp"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Ttl"=dword:000004b0
+"Flags"=dword:00000000
+"CompartmentId"=dword:00000001
+"StaleAdapter"=dword:00000001
+"RegisteredSinceBoot"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\DNSRegisteredAdapters\{426D541B-9D46-4CF2-A588-4C8F4D3CE7E7}]
+"Hostname"="PC-Weslley"
+"AdapterDomainName"=""
+"PrimaryDomainName"="alterna.net"
+"HostAddrs"=hex:01,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,02,00,00,00,c0,a8,01,10,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,10,00,00,00,18,00,00,\
+  00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"DnsServers"=hex:01,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00,c0,a8,01,01,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,10,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00
+"SentUpdateToIp"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SentPriUpdateToIp"=hex:02,00,00,35,d1,3b,c2,f6,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,10,00,00,00,00,00,00,00,01,01,00,\
+  00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"Ttl"=dword:000004b0
+"Flags"=dword:00000000
+"CompartmentId"=dword:00000001
+"StaleAdapter"=dword:00000000
+"RegisteredSinceBoot"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces]
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{426D541B-9D46-4CF2-A588-4C8F4D3CE7E7}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="192.168.1.1"
+"Lease"=dword:00015180
+"LeaseObtainedTime"=dword:52508d67
+"T1"=dword:52513627
+"T2"=dword:5251b4b7
+"LeaseTerminatesTime"=dword:5251dee7
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000001
+"DhcpNetworkHint"="746545D203331354"
+"IPAddress"=hex(7):00
+"SubnetMask"=hex(7):00
+"DefaultGateway"=hex(7):00
+"DefaultGatewayMetric"=hex(7):00
+"DhcpIPAddress"="192.168.1.4"
+"DhcpSubnetMask"="255.255.255.0"
+"DhcpInterfaceOptions"=hex:fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,2e,\
+  96,50,52,06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,e7,de,51,52,c0,a8,\
+  01,01,0f,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,e7,de,51,52,6c,61,6e,\
+  00,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,e7,de,51,52,c0,a8,01,01,\
+  01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,e7,de,51,52,ff,ff,ff,00,33,\
+  00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,e7,de,51,52,00,01,51,80,36,00,\
+  00,00,00,00,00,00,04,00,00,00,00,00,00,00,e7,de,51,52,c0,a8,01,01,35,00,00,\
+  00,00,00,00,00,01,00,00,00,00,00,00,00,e7,de,51,52,05,00,00,00
+"DhcpGatewayHardware"=hex:c0,a8,01,01,06,00,00,00,7c,4f,b5,e6,03,1d
+"DhcpGatewayHardwareCount"=dword:00000001
+"DhcpNameServer"="192.168.1.1"
+"DhcpDomain"="lan"
+"DhcpDefaultGateway"=hex(7):31,39,32,2e,31,36,38,2e,31,2e,31,00,00
+"DhcpSubnetMaskOpt"=hex(7):32,35,35,2e,32,35,35,2e,32,35,35,2e,30,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{426D541B-9D46-4CF2-A588-4C8F4D3CE7E7}\35944594F4]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="192.168.2.100"
+"Lease"=dword:00001c20
+"LeaseObtainedTime"=dword:507db42c
+"T1"=dword:507dc23c
+"T2"=dword:507dccc8
+"LeaseTerminatesTime"=dword:507dd04c
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000001
+"DhcpNetworkHint"="35944594F4"
+"IPAddress"=hex(7):00
+"SubnetMask"=hex(7):00
+"DefaultGateway"=hex(7):00
+"DefaultGatewayMetric"=hex(7):00
+"DhcpIPAddress"="192.168.2.10"
+"DhcpSubnetMask"="255.255.255.0"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,4c,\
+  d0,7d,50,c0,a8,02,64,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,4c,d0,\
+  7d,50,c0,a8,02,64,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,4c,d0,7d,\
+  50,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,4c,d0,7d,50,\
+  c0,a8,02,64,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,4c,d0,7d,50,05,\
+  00,00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,6d,b4,7d,50,33,00,\
+  00,00,00,00,00,00,04,00,00,00,00,00,00,00,4c,d0,7d,50,00,00,1c,20
+"DhcpGatewayHardware"=hex:c0,a8,02,64,06,00,00,00,74,ea,3a,ec,e5,12
+"DhcpGatewayHardwareCount"=dword:00000001
+"DhcpNameServer"="192.168.2.100"
+"DhcpDefaultGateway"=hex(7):31,39,32,2e,31,36,38,2e,32,2e,31,30,30,00,00
+"DhcpSubnetMaskOpt"=hex(7):32,35,35,2e,32,35,35,2e,32,35,35,2e,30,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{426D541B-9D46-4CF2-A588-4C8F4D3CE7E7}\35944594F4D20594353494E414]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="192.168.1.254"
+"Lease"=dword:000d2f00
+"LeaseObtainedTime"=dword:507db4f0
+"T1"=dword:50844c70
+"T2"=dword:50893e10
+"LeaseTerminatesTime"=dword:508ae3f0
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000001
+"DhcpNetworkHint"="35944594F4D20594353494E414"
+"IPAddress"=hex(7):00
+"SubnetMask"=hex(7):00
+"DefaultGateway"=hex(7):00
+"DefaultGatewayMetric"=hex(7):00
+"DhcpIPAddress"="192.168.1.102"
+"DhcpSubnetMask"="255.255.255.0"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,f0,\
+  e3,8a,50,c0,a8,01,fe,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,f0,e3,\
+  8a,50,c0,a8,01,fe,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,f0,e3,8a,\
+  50,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,f0,e3,8a,50,\
+  c0,a8,01,fe,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,f0,e3,8a,50,05,\
+  00,00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f0,b4,7d,50,33,00,\
+  00,00,00,00,00,00,04,00,00,00,00,00,00,00,f0,e3,8a,50,00,0d,2f,00
+"DhcpGatewayHardware"=hex:c0,a8,01,fe,06,00,00,00,00,1a,ef,13,75,7e
+"DhcpGatewayHardwareCount"=dword:00000001
+"DhcpNameServer"="192.168.1.254"
+"DhcpDefaultGateway"=hex(7):31,39,32,2e,31,36,38,2e,31,2e,32,35,34,00,00
+"DhcpSubnetMaskOpt"=hex(7):32,35,35,2e,32,35,35,2e,32,35,35,2e,30,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{426D541B-9D46-4CF2-A588-4C8F4D3CE7E7}\35F657A71626C65756]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="10.109.0.10"
+"Lease"=dword:000a8c00
+"LeaseObtainedTime"=dword:50896b59
+"T1"=dword:508eb159
+"T2"=dword:5092a5d9
+"LeaseTerminatesTime"=dword:5093f759
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000000
+"DhcpNetworkHint"="35F657A71626C65756"
+"IPAddress"=hex(7):00
+"SubnetMask"=hex(7):00
+"DefaultGateway"=hex(7):00
+"DefaultGatewayMetric"=hex(7):00
+"DhcpIPAddress"="10.109.0.109"
+"DhcpSubnetMask"="255.255.255.0"
+"DhcpInterfaceOptions"=hex:fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,ae,\
+  6b,89,50,06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,59,f7,93,50,0a,6d,\
+  00,0a,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,59,f7,93,50,0a,6d,00,\
+  01,0f,00,00,00,00,00,00,00,0c,00,00,00,00,00,00,00,59,f7,93,50,61,6c,74,65,\
+  72,6e,61,2e,6e,65,74,00,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,59,\
+  f7,93,50,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,59,f7,\
+  93,50,0a,6d,00,0a,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,59,f7,93,\
+  50,00,0a,8c,00,3b,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,59,f7,93,50,\
+  00,09,3a,80,3a,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,59,f7,93,50,00,\
+  05,46,00,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,59,f7,93,50,05,00,\
+  00,00,dc,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,59,6b,89,50
+"DhcpGatewayHardware"=hex:0a,6d,00,01,06,00,00,00,2c,41,38,48,6f,85
+"DhcpGatewayHardwareCount"=dword:00000001
+"DhcpNameServer"="10.109.0.10"
+"DhcpDefaultGateway"=hex(7):31,30,2e,31,30,39,2e,30,2e,31,00,00
+"DhcpDomain"="alterna.net"
+"DhcpSubnetMaskOpt"=hex(7):32,35,35,2e,32,35,35,2e,32,35,35,2e,30,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{426D541B-9D46-4CF2-A588-4C8F4D3CE7E7}\4456661657C647]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="192.168.1.254"
+"Lease"=dword:000d2f00
+"LeaseObtainedTime"=dword:507dae3d
+"T1"=dword:508445bd
+"T2"=dword:5089375d
+"LeaseTerminatesTime"=dword:508add3d
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000001
+"DhcpNetworkHint"="4456661657C647"
+"IPAddress"=hex(7):00
+"SubnetMask"=hex(7):00
+"DefaultGateway"=hex(7):00
+"DefaultGatewayMetric"=hex(7):00
+"DhcpIPAddress"="192.168.1.100"
+"DhcpSubnetMask"="255.255.255.0"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,3d,\
+  dd,8a,50,c0,a8,01,fe,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,3d,dd,\
+  8a,50,c0,a8,01,fe,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,3d,dd,8a,\
+  50,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,3d,dd,8a,50,\
+  c0,a8,01,fe,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,3d,dd,8a,50,05,\
+  00,00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,7d,ae,7d,50,33,00,\
+  00,00,00,00,00,00,04,00,00,00,00,00,00,00,3d,dd,8a,50,00,0d,2f,00
+"DhcpGatewayHardware"=hex:c0,a8,01,fe,06,00,00,00,00,1a,ef,13,75,7e
+"DhcpGatewayHardwareCount"=dword:00000001
+"DhcpNameServer"="192.168.1.254"
+"DhcpDefaultGateway"=hex(7):31,39,32,2e,31,36,38,2e,31,2e,32,35,34,00,00
+"DhcpSubnetMaskOpt"=hex(7):32,35,35,2e,32,35,35,2e,32,35,35,2e,30,00,00
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{426D541B-9D46-4CF2-A588-4C8F4D3CE7E7}\960586F6E6560246560234C616574696F602D41636861646F6]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="172.20.10.1"
+"Lease"=dword:00014e20
+"LeaseObtainedTime"=dword:50806d03
+"T1"=dword:50811413
+"T2"=dword:5081915f
+"LeaseTerminatesTime"=dword:5081bb23
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000001
+"DhcpNetworkHint"="960586F6E6560246560234C616574696F602D41636861646F6"
+"IPAddress"=hex(7):00
+"SubnetMask"=hex(7):00
+"DefaultGateway"=hex(7):00
+"DefaultGatewayMetric"=hex(7):00
+"DhcpIPAddress"="172.20.10.4"
+"DhcpSubnetMask"="255.255.255.240"
+"DhcpInterfaceOptions"=hex:fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,11,\
+  78,80,50,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,23,bb,81,50,00,01,\
+  4e,20,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,23,bb,81,50,05,00,00,\
+  00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,23,bb,81,50,ac,14,0a,01,\
+  01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,23,bb,81,50,ff,ff,ff,f0,03,\
+  00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,23,bb,81,50,ac,14,0a,01,06,00,\
+  00,00,00,00,00,00,08,00,00,00,00,00,00,00,23,bb,81,50,c8,dc,e3,38,c8,8e,82,\
+  ca
+"DhcpGatewayHardware"=hex:ac,14,0a,01,06,00,00,00,6a,60,bc,60,97,00
+"DhcpGatewayHardwareCount"=dword:00000001
+"DhcpSubnetMaskOpt"=hex(7):32,35,35,2e,32,35,35,2e,32,35,35,2e,32,34,30,00,00
+"DhcpDefaultGateway"=hex(7):31,37,32,2e,32,30,2e,31,30,2e,31,00,00
+"DhcpNameServer"="200.220.227.56 200.142.130.202"
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{7CE163D5-A33A-4B88-933D-4B99C28D2226}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="255.0.0.0"
+"DhcpServer"="255.255.255.255"
+"Lease"=dword:00000000
+"LeaseObtainedTime"=dword:00000000
+"T1"=dword:00000000
+"T2"=dword:00000000
+"LeaseTerminatesTime"=dword:00000000
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{846ee342-7039-11de-9d20-806e6f6e6963}]
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{8CB5BD11-8F2C-4456-A001-002F30A06014}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="255.0.0.0"
+"DhcpServer"="255.255.255.255"
+"Lease"=dword:00000000
+"LeaseObtainedTime"=dword:00000000
+"T1"=dword:00000000
+"T2"=dword:00000000
+"LeaseTerminatesTime"=dword:00000000
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{AC228075-440E-4A1C-9178-4324DBBB7558}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="255.255.255.255"
+"Lease"=dword:00000000
+"LeaseObtainedTime"=dword:00000000
+"T1"=dword:00000000
+"T2"=dword:00000000
+"LeaseTerminatesTime"=dword:00000000
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000001
+"IPAddress"=hex(7):00
+"SubnetMask"=hex(7):00
+"DefaultGateway"=hex(7):00
+"DefaultGatewayMetric"=hex(7):00
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="255.0.0.0"
+"DhcpGatewayHardware"=hex:0a,6d,00,01,06,00,00,00,2c,41,38,48,6f,85
+"DhcpGatewayHardwareCount"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{D102237E-0D4A-46FC-B7AF-2C80A4E2A38E}]
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="0.0.0.0"
+"Domain"=""
+"NameServer"=""
+"RegistrationEnabled"=dword:00000000
+"RegisterAdapterName"=dword:00000000
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0e,\
+  9e,34,51,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0e,9e,34,51,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,0e,9e,34,51,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,0e,9e,34,51,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,0e,9e,34,51,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0e,\
+  9e,34,51
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Interfaces\{D9BD93CD-31A7-4B26-986F-F82BAB88E082}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="255.0.0.0"
+"DhcpServer"="255.255.255.255"
+"Lease"=dword:00000000
+"LeaseObtainedTime"=dword:00000000
+"T1"=dword:00000000
+"T2"=dword:00000000
+"LeaseTerminatesTime"=dword:00000000
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\PersistentRoutes]
+
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\services\tcpip\parameters\Winsock]
+"HelperDllName"=hex(2):25,53,79,73,74,65,6d,52,6f,6f,74,25,5c,53,79,73,74,65,\
+  6d,33,32,5c,77,73,68,74,63,70,69,70,2e,64,6c,6c,00
+"MaxSockAddrLength"=dword:00000010
+"MinSockAddrLength"=dword:00000010
+"Mapping"=hex:08,00,00,00,03,00,00,00,02,00,00,00,01,00,00,00,06,00,00,00,02,\
+  00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,00,00,00,06,00,00,00,02,00,\
+  00,00,02,00,00,00,11,00,00,00,02,00,00,00,02,00,00,00,00,00,00,00,02,00,00,\
+  00,00,00,00,00,11,00,00,00,02,00,00,00,03,00,00,00,ff,00,00,00,02,00,00,00,\
+  03,00,00,00,00,00,00,00
+"UseDelayedAcceptance"=dword:00000000

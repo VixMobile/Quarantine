@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\software\wow6432node\microsoft\windows\currentversion\explorer\browser helper objects\{ee932b49-d5c0-4d19-a3da-ce0849258de6}]
+@="DVDVideoSoft.WebPageAdjuster"
+REGEDIT4
